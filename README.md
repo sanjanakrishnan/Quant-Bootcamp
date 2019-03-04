@@ -13,9 +13,9 @@ The session is spread over two days, covering skills needed to **analyse** and *
 |2|Applying it in GST|3pm to 5 pm|
 |2|demo + wrapping up|5pm to 6pm|
 
-## Data sets and problem statement
+## [Data sets](https://github.com/sanjanakrishnan/Quant-Bootcamp/blob/master/data.md) and [problem statement]((https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki))
 Read about the Data sets and Problem statements in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki).
 Data sets can be downloaded from 
 
-## Software
+## [Software](https://github.com/sanjanakrishnan/Quant-Bootcamp/blob/master/software.md)
 
