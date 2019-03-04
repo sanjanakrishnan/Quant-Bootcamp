@@ -2,7 +2,7 @@
 
 ## Workflow
 
-The session is spread over two days, covering skills needed to analyse and clean data using excel and openrefine. 
+The session is spread over two days, covering skills needed to **analyse** and **clean** data using excel and openrefine. 
 
 |Day|Agenda|Time|
 |---|------|----|
@@ -13,8 +13,9 @@ The session is spread over two days, covering skills needed to analyse and clean
 |2|Applying it in GST|3pm to 5 pm|
 |2|demo + wrapping up|5pm to 6pm|
 
-Read about the Data sets and Problem statements in the [wiki].
+## Data sets and problem statement
+Read about the Data sets and Problem statements in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki).
+Data sets can be downloaded from 
 
-Data sets and links
-
+## Software
 
