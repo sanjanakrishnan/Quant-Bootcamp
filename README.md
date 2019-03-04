@@ -7,11 +7,11 @@ The session is spread over two days, covering skills needed to **analyse** and *
 |Day|Topic|Time|
 |---|------|----|
 |1|Kick off- introduction to the data sets and tool|30 min|
-|1|Hands on data analysis session|4 hours|
-|1|Introducing openrefine|30 min|
+||Hands on data analysis session|4 hours|
+||Introducing openrefine|30 min|
 |2|Hands on data cleaning session|2.5 hours|
-|2|Applying it in GST|1.5 hours|
-|2|demo + wrapping up|30 min|
+||Applying it in GST|1.5 hours|
+||demo + wrapping up|30 min|
 
 Starting work
 1. From **part one** in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki), pick any database that interests you
