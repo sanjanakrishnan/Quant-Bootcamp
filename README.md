@@ -13,7 +13,7 @@ The session is spread over two days, covering skills needed to **analyse** and *
 |2|Applying it in GST|1.5 hours|
 |2|demo + wrapping up|30 min|
 
-Staring work
+Starting work
 1. From **part one** in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki), pick any database that interests you
 2. Have a look at the detailed problem statement and questions for analysis
 
