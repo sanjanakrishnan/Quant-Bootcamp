@@ -18,8 +18,7 @@ Starting work
 2. Have a look at the detailed problem statement and questions for analysis
 
 ## Data sets and problem statements
-Read about the [Data sets](https://github.com/sanjanakrishnan/Quant-Bootcamp/blob/master/data.md) and Problem statements in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki).
-Data sets can be downloaded from 
+Read about the Data sets and Problem statements in the [wiki](https://github.com/sanjanakrishnan/Quant-Bootcamp/wiki).
 
 ## [Software](https://github.com/sanjanakrishnan/Quant-Bootcamp/blob/master/software.md)
 
